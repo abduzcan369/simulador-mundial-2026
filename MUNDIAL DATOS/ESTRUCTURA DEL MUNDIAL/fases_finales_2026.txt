@@ -1,0 +1,17 @@
+Fase,Partido_ID,Local_Viene_De,Visitante_Viene_De
+Octavos,17,Ganador_13,Ganador_6
+Octavos,18,Ganador_5,Ganador_9
+Octavos,19,Ganador_3,Ganador_15
+Octavos,20,Ganador_1,Ganador_12
+Octavos,21,Ganador_16,Ganador_8
+Octavos,22,Ganador_4,Ganador_7
+Octavos,23,Ganador_10,Ganador_14
+Octavos,24,Ganador_2,Ganador_11
+Cuartos,25,Ganador_17,Ganador_18
+Cuartos,26,Ganador_19,Ganador_20
+Cuartos,27,Ganador_21,Ganador_22
+Cuartos,28,Ganador_23,Ganador_24
+Semifinal,29,Ganador_25,Ganador_26
+Semifinal,30,Ganador_27,Ganador_28
+Tercer_Puesto,31,Perdedor_29,Perdedor_30
+Final,32,Ganador_29,Ganador_30

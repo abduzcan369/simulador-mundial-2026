@@ -1,0 +1,13 @@
+Grupo,Equipo_1,Equipo_2,Equipo_3,Equipo_4
+A,México,Corea del Sur,República Checa,Sudáfrica
+B,Canadá,Suiza,Bosnia y Herzegovina,Catar
+C,Brasil,Marruecos,Escocia,Haití
+D,Estados Unidos,Australia,Paraguay,Turquía
+E,Alemania,Costa de Marfil,Ecuador,Curazao
+F,Países Bajos,Japón,Suecia,Túnez
+G,Bélgica,Irán,Egipto,Nueva Zelanda
+H,España,Uruguay,Arabia Saudita,Cabo Verde
+I,Francia,Noruega,Senegal,Irak
+J,Argentina,Austria,Argelia,Jordania
+K,Portugal,Colombia,Uzbekistán,República Democrática del Congo
+L,Inglaterra,Croacia,Panamá,Ghana

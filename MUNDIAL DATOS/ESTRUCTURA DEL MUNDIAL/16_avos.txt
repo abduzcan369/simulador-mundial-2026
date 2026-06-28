@@ -1,0 +1,17 @@
+Partido,Local_Fase_Grupos,Visitante_Fase_Grupos
+1,1A,Mejor_3_C/E/F/H/I
+2,1B,Mejor_3_E/F/G/I/J
+3,1C,2F
+4,1D,Mejor_3_B/E/F/I/J
+5,1E,Mejor_3_A/B/C/D/F
+6,1F,2C
+7,1G,Mejor_3_A/E/H/I/J
+8,1H,2J
+9,1I,Mejor_3_C/D/F/G/H
+10,1J,2H
+11,1K,Mejor_3_A/B/C/D/L
+12,1L,Mejor_3_E/H/I/J/K
+13,2A,2B
+14,2D,2G
+15,2E,2I
+16,2K,2L
